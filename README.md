@@ -8,7 +8,7 @@
 **IDE**: VS Code, PyCharm, Jupyter Notebook  
 **Kaggle**: https://www.kaggle.com/sokolovaleks
 
-🌱 Мое резюме можно найти [тут](https://hh.ru/resume/771742d4ff073fc5bb0039ed1f7368755a7a74)  
+↪️✌️ Мое резюме можно найти [тут](https://hh.ru/resume/771742d4ff073fc5bb0039ed1f7368755a7a74)  
 
 📩 Если вы захотите связаться со мной, то проще всего это сделать через [Telegram](https://t.me/aleks_2011) - звоните, пишите, не стесняйтесь.
 
@@ -27,7 +27,7 @@ In addition, I have a great background in understanding business in terms of com
 **IDE**: VS Code, PyCharm, Jupyter Notebook  
 **Kaggle**: https://www.kaggle.com/sokolovaleks
 
-🌱 CV [here](https://hh.ru/applicant/resumes/view?resume=771742d4ff073fc5bb0039ed1f7368755a7a74)  
+↪️✌️ CV [here](https://hh.ru/applicant/resumes/view?resume=771742d4ff073fc5bb0039ed1f7368755a7a74)  
 
 📩  If you'd like to ask any questions about me or my study or would like to collaborate on a project, feel free to call or write with [Telegram](https://t.me/aleks_2011)
 
