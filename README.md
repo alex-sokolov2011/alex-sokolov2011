@@ -8,13 +8,13 @@
 **IDE**: VS Code, PyCharm, Jupyter Notebook  
 **Kaggle**: https://www.kaggle.com/sokolovaleks
 
-🌱 Мое резюме можно найти [тут](https://hh.ru/applicant/resumes/view?resume=771742d4ff073fc5bb0039ed1f7368755a7a74)  
+🌱 Мое резюме можно найти [тут](https://hh.ru/resume/771742d4ff073fc5bb0039ed1f7368755a7a74)  
 
 📩 Если вы захотите связаться со мной, то проще всего это сделать через [Telegram](https://t.me/aleks_2011) - звоните, пишите, не стесняйтесь.
 
-📫 А тем кому привычнее хардкор пишите на e-mail:[sokaa2011@gmail.com](mailto:sokaa2011@gmail.com)  
+📫 А тем кому привычнее хардкор, пишите на e-mail:[sokaa2011@gmail.com](mailto:sokaa2011@gmail.com)  
 
-Ну и если вам понравились какие-нибудь репозитории, то буду благодарен, если отметите их ✩-дами  
+Ну и если вам понравились какие-нибудь репозитории, то буду благодарен, если отметите их ⭐️⭐️⭐️-дами  
 
 ---
 ### WELCOME! 👋
@@ -34,6 +34,6 @@ In addition, I have a great background in understanding business in terms of com
 
 📫 e-mail:[sokaa2011@gmail.com](mailto:sokaa2011@gmail.com)
 
-Well, if you liked any repositories, then I will be grateful if you mark them with ✩s.
+Well, if you liked any repositories, then I will be grateful if you mark them with ⭐️⭐️⭐️s.
 
  
