@@ -18,7 +18,6 @@
 
 I am Alexander Sokolov, student of Data Science 💻 SkillFactory course.  
 I received my excellent knowledge in algebra, mathematical statistics and probability theory at the Faculty of Mechanics and Mathematics of NSU 📚 (specialty in Computational Mathematics) and developed it while working as a high school mathematics teacher in Israel.  
-In addition, I have a great background in understanding business in terms of commerce (in retail, in the distribution of goods and technically complex equipment)
 
 **Stack**:  Python (Pandas, Numpy, Matplotlib, Seaborn, SciKit-Learn, bs4, Shapely), SQL, Linux, Git  
 **IDE**: VS Code, PyCharm, Jupyter Notebook  
