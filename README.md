@@ -4,7 +4,7 @@
 Мои отличные знания в алгебре, математической статистике и теории вероятностей я получил на Механико-математическом факультете НГУ 📚 (специальность Вычислительная математика) и развил их, работая учителем старших классов в Израиле.  
 Кроме этого у меня есть большой background в понимании бизнеса в части коммерции (в ритейле, в дистрибьюции товаров и технически сложного оборудования)  
 
-**Стэк**:  Python (Pandas, Numpy, Matplotlib, Seaborn, SciKit-Learn, bs4, Shapely), SQL, Linux, Git  
+**Стэк**:  Python (Pandas, Numpy, Pulp, Cvxpy, Matplotlib, SciKit-Learn, Bs4, Shapely, Catboost), SQL, Linux, Git  
 **IDE**: VS Code, PyCharm, Jupyter Notebook  
 **Kaggle**: https://www.kaggle.com/sokolovaleks
 
@@ -19,7 +19,7 @@
 I am Alexander Sokolov, student of Data Science 💻 SkillFactory course.  
 I received my excellent knowledge in algebra, mathematical statistics and probability theory at the Faculty of Mechanics and Mathematics of NSU 📚 (specialty in Computational Mathematics) and developed it while working as a high school mathematics teacher in Israel.  
 
-**Stack**:  Python (Pandas, Numpy, Matplotlib, Seaborn, SciKit-Learn, bs4, Shapely), SQL, Linux, Git  
+**Stack**:  Python (Pandas, Numpy, Pulp, Cvxpy, Matplotlib, SciKit-Learn, Bs4, Shapely, Catboost), SQL, Linux, Git  
 **IDE**: VS Code, PyCharm, Jupyter Notebook  
 **Kaggle**: https://www.kaggle.com/sokolovaleks
 
