@@ -5,15 +5,9 @@
 Кроме этого у меня есть большой background в понимании бизнеса в части коммерции (в ритейле, в дистрибьюции товаров и технически сложного оборудования)  
 
 **Стэк**:  
-- Python 
-  - Base (Pandas, Numpy, Pulp, Cvxpy, Math)
-  - ML (SciKit-Learn, Catboost)
-  - DL (TensorFlow)
-  - Visualisation (Matplotlib, Seaborn)
-  - Parsing(Bs4)
-  - GEO (Shapely)
-  - Other (pickle, os, shutil, zipfile)
+- Python - Base (Pandas, Numpy, Pulp, Cvxpy, Math) - ML (SciKit-Learn, Catboost) - DL (TensorFlow) - Visualisation (Matplotlib, Seaborn) - Parsing(Bs4) - GEO (Shapely) - Other (pickle, os, shutil, zipfile)
 - SQL, Linux, Git  
+
 **IDE**: VS Code, PyCharm, Jupyter Notebook  
 **Kaggle**: https://www.kaggle.com/sokolovaleks
 
