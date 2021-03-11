@@ -6,6 +6,7 @@
 **Стэк**:  
 - Python - Python (Base (Pandas, Numpy, Pulp, Cvxpy, Math) - ML (SciKit-Learn, Catboost) - DL (TensorFlow - RL(GYM) - NLP(pymorphy2, NLTK) - NV(albumentations)) - Visualisation (Matplotlib, Seaborn) - Parsing(Bs4) - GEO (Shapely) - DataBase(Hadoop, Hive, pySpark, SQL, Bash)  - Other (pickle, os, shutil, zipfile))  
 - Linux, Git  
+
 **IDE**: VS Code, Jupyter Notebook, Zeppeline, PyCharm  
 **Kaggle**: https://www.kaggle.com/sokolovaleks
 
@@ -21,7 +22,6 @@ I am Alexander Sokolov, student of Data Science 💻 SkillFactory course. I'm 43
 I received my knowledge in algebra, mathematical statistics and probability theory at the Faculty of Mechanics and Mathematics of NSU 📚 (specialty in Computational Mathematics) and developed it while working as a high school mathematics teacher in Israel. I have successful experience in pedagogical processes for adolescents and adults. I am interested in the topic of online education.  
 
 **Stack**:  Python (Pandas, Numpy, Pulp, Cvxpy, Math, SciKit-Learn, Catboost, TensorFlow, GYM, pymorphy2, NLTK, albumentations, Matplotlib, Seaborn, Bs4, Shapely, pickle, os, shutil, zipfile), Linux, Git  
-
 **DataBase** (Hadoop, Hive, pySpark, SQL, Bash)
 **IDE**: VS Code, PyCharm, Jupyter Notebook  
 **Kaggle**: https://www.kaggle.com/sokolovaleks
