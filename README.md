@@ -23,7 +23,7 @@ I received my knowledge in algebra, mathematical statistics and probability theo
 **IDE**: VS Code, Jupyter Notebook, Zeppeline, PyCharm  
 **Kaggle**: https://www.kaggle.com/sokolovaleks
 
-↪️✌️ [CV](https://hh.ru/resume/771742d4ff073fc5bb0039ed1f7368755a7a74) and profile of [LinkedIn](https://www.linkedin.com/in/%D1%81%D0%BE%D0%BA%D0%BE%D0%BB%D0%BE%D0%B2-%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80-05378037/)  
+↪️✌️ [CV](https://hh.ru/resume/771742d4ff073fc5bb0039ed1f7368755a7a74) and profile of [LinkedIn](https://www.linkedin.com/in/sokaa2011/)  
 📩  If you'd like to ask any questions about me or my study or would like to collaborate on a project, feel free to call or write with [Telegram](https://t.me/aleks_2011)  
 📫 e-mail:[sokaa2011@gmail.com](mailto:sokaa2011@gmail.com)  
 Well, if you liked any repositories, then I will be grateful if you mark them with ⭐️⭐️⭐️s.
