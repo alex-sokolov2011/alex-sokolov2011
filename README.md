@@ -1,6 +1,6 @@
 ### Добро пожаловать! 👋
 
-Я Александр Соколов. Мне 43 года. Закончил курса Data Science 💻 SkillFactory. Сейчас в поиске full-time стажировки в Москве.  
+Я Александр Соколов. Мне 43 года. В мае закончил курс Data Science 💻 SkillFactory. Сейчас в поиске full-time стажировки в Москве.  
 Знания в алгебре, математической статистике и теории вероятностей я получил на Механико-математическом факультете НГУ 📚 (специальность Вычислительная математика) и развил их, работая учителем старших классов в Израиле. У меня успешный опыт в педагогических процессах для подростков и взрослых.  
 
 **Стэк**:  Python(Base (Pandas, Numpy, tqdm, Math) - ML(SciKit-Learn, LightGBM, Catboost, shap, LAMA) - DL(TensorFlow, Keras - RL(GYM) - NLP(pymorphy2, NLTK, deepPavlov) - NV(albumentations)) - Visualisation(Matplotlib, Seaborn) - Parsing(Bs4) - GEO(Shapely) - PROD(streamlit) - DB(pySpark)  - Other (pulp, cvxpy, pickle, os, shutil, zipfile)), DB(DBeaver, Hadoop, Hive, sqoop, SQL, Bash), Linux, Git, heroku  
@@ -16,7 +16,7 @@
 ---
 ### WELCOME! 👋
 
-I am Alexander Sokolov. I'm 43 years old. Completed the Data Science 💻 SkillFactory course. Now looking for a full-time train or job of DS in Moscow.  
+I am Alexander Sokolov. I'm 43 years old. In may finished the Data Science 💻 SkillFactory course. Now looking for a full-time train or job of DS in Moscow.  
 I received my knowledge in algebra, mathematical statistics and probability theory at the Faculty of Mechanics and Mathematics of NSU 📚 (specialty in Computational Mathematics) and developed it while working as a high school mathematics teacher in Israel. I have successful experience in pedagogical processes for adolescents and adults.  
 
 **Stack**:  Python(Base (Pandas, Numpy, tqdm, Math) - ML(SciKit-Learn, LightGBM, Catboost, shap, LAMA) - DL(TensorFlow - RL(GYM) - NLP(pymorphy2, NLTK, deepPavlov) - NV(albumentations)) - Visualisation(Matplotlib, Seaborn) - Parsing(Bs4) - GEO(Shapely) - PROD(streamlit) - DB(pySpark)  - Other (pulp, cvxpy, pickle, os, shutil, zipfile)), DB(DBeaver, Hadoop, Hive, sqoop, SQL, Bash), Linux, Git, heroku  
