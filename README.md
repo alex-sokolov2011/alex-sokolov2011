@@ -1,9 +1,9 @@
 ### Добро пожаловать! 👋
 
-Я Александр Соколов. Живу в Москве. Мне 43 года. В мае 2021 закончил курс Data Science 💻 SkillFactory. Сейчас работаю Data Scientist ML в Sber.  
+Я Александр Соколов. Живу в Москве. Мне 44 года. В мае 2021 закончил курс Data Science 💻 SkillFactory. Сейчас работаю Data Scientist ML в Sber.  
 Знания в алгебре, математической статистике и теории вероятностей я получил на Механико-математическом факультете НГУ 📚 (специальность Вычислительная математика) и развил их, работая учителем старших классов в Израиле. У меня успешный опыт в педагогических процессах для подростков и взрослых.  
 
-**Стэк**:  Python(Base (Pandas, Numpy, tqdm, Math) - ML(SciKit-Learn, LightGBM, Catboost, shap, LAMA) - DL(TensorFlow, Keras - RL(GYM) - NLP(pymorphy2, NLTK) - NV(albumentations)) - Visualisation(Matplotlib, Seaborn) - Parsing(Bs4) - GEO(Shapely) - PROD(streamlit) - DB(pySpark)  - Other (pulp, cvxpy, pickle, os, shutil, zipfile)), DB(DBeaver, Hadoop, Hive, sqoop, SQL, Bash), Linux, Git, heroku  
+**Стэк**:  Python(Base (Pandas, Numpy, tqdm, Math) - ML(SciKit-Learn, LightGBM, Catboost, shap, LAMA, AutoWoE) - DL(TensorFlow, Keras - RL(GYM) - NLP(pymorphy2, NLTK) - NV(albumentations)) - Visualisation(Matplotlib, Seaborn) - Parsing(Bs4) - GEO(Shapely) - PROD(streamlit) - DB(pySpark)  - Other (pulp, cvxpy, pickle, os, shutil, zipfile)), DB(DBeaver, Hadoop, Hive, sqoop, SQL, Bash), Linux, Git, heroku  
 **IDE**: VS Code, Jupyter Notebook, Zeppeline, PyCharm  
 **Kaggle**: https://www.kaggle.com/sokolovaleks  
 [**Портфолио пет-проектов**](https://github.com/alex-sokolov2011/skillfactory_rds)
