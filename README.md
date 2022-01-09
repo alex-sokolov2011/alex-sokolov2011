@@ -1,9 +1,9 @@
 ### Добро пожаловать! 👋
 
-Я Александр Соколов. Живу в Москве. Мне 44 года. В мае 2021 закончил курс Data Science 💻 SkillFactory. Сейчас работаю Data Scientist ML в Sber.  
+Я Александр Соколов. Живу в Москве. Мне 44 года. В мае 2021 закончил курс Data Science 💻. Сейчас работаю Data Scientist ML в Sber.  
 Знания в алгебре, математической статистике и теории вероятностей я получил на Механико-математическом факультете НГУ 📚 (специальность Вычислительная математика) и развил их, работая учителем старших классов в Израиле. У меня успешный опыт в педагогических процессах для подростков и взрослых.  
 
-**Стэк**:  Python(Base (Pandas, Numpy, tqdm, Math) - ML(SciKit-Learn, LightGBM, Catboost, shap, LAMA, AutoWoE) - DL(TensorFlow, Keras - RL(GYM) - NLP(pymorphy2, NLTK) - NV(albumentations)) - Visualisation(Matplotlib, Seaborn) - Parsing(Bs4) - GEO(Shapely) - PROD(streamlit) - DB(pySpark)  - Other (pulp, cvxpy, pickle, os, shutil, zipfile)), DB(DBeaver, Hadoop, Hive, sqoop, SQL, Bash), Linux, Git, heroku  
+**Стэк**:  Python(Base (Pandas, Numpy, tqdm, Math, SciPy) - ML(((SciKit-Learn, LightGBM, Catboost, shap, LAMA, AutoWoE) - TS(statsmodels))- DL(TensorFlow, Keras - RL(GYM) - NLP(pymorphy2, NLTK) - NV(albumentations)) - Visualisation(Matplotlib, Seaborn) - Parsing(Bs4) - GEO(Shapely) - PROD(streamlit) - DB(pySpark)  - Other (pulp, cvxpy, pickle, os, shutil, zipfile)), DB(DBeaver, Hadoop, Hive, sqoop, SQL, Bash), Linux, Git, heroku  
 **IDE**: VS Code, Jupyter Notebook, Zeppeline, PyCharm  
 **Kaggle**: https://www.kaggle.com/sokolovaleks  
 [**Портфолио пет-проектов**](https://github.com/alex-sokolov2011/skillfactory_rds)
@@ -16,10 +16,10 @@
 ---
 ### WELCOME! 👋
 
-I am Alexander Sokolov. I'm 43 years old. In may finished the Data Science 💻 SkillFactory course. Now looking for a full-time train or job of DS in Moscow.  
+I am Alexander Sokolov. Moscow. I'm 44. I finished the Data Science 💻 course in May 2021. Now I work at an amazing Company called the Sber as a data scientist in ML.  
 I received my knowledge in algebra, mathematical statistics and probability theory at the Faculty of Mechanics and Mathematics of NSU 📚 (specialty in Computational Mathematics) and developed it while working as a high school mathematics teacher in Israel. I have successful experience in pedagogical processes for adolescents and adults.  
 
-**Stack**:  Python(Base (Pandas, Numpy, tqdm, Math) - ML(SciKit-Learn, LightGBM, Catboost, shap, LAMA) - DL(TensorFlow, Keras - RL(GYM) - NLP(pymorphy2, NLTK) - NV(albumentations)) - Visualisation(Matplotlib, Seaborn) - Parsing(Bs4) - GEO(Shapely) - PROD(streamlit) - DB(pySpark)  - Other (pulp, cvxpy, pickle, os, shutil, zipfile)), DB(DBeaver, Hadoop, Hive, sqoop, SQL, Bash), Linux, Git, heroku  
+**Stack**:  Python(Base (Pandas, Numpy, tqdm, Math, SciPy) - ML(((SciKit-Learn, LightGBM, Catboost, shap, LAMA, AutoWoE) - TS(statsmodels))- DL(TensorFlow, Keras - RL(GYM) - NLP(pymorphy2, NLTK) - NV(albumentations)) - Visualisation(Matplotlib, Seaborn) - Parsing(Bs4) - GEO(Shapely) - PROD(streamlit) - DB(pySpark)  - Other (pulp, cvxpy, pickle, os, shutil, zipfile)), DB(DBeaver, Hadoop, Hive, sqoop, SQL, Bash), Linux, Git, heroku  
 **IDE**: VS Code, Jupyter Notebook, Zeppeline, PyCharm  
 **Kaggle**: https://www.kaggle.com/sokolovaleks
 
