@@ -6,8 +6,8 @@ I received my knowledge in algebra, mathematical statistics and probability theo
 **Stack**:  Python(Base (Pandas, Numpy, Math, SciPy, tqdm) – ML(SciKit-Learn, LightGBM, Catboost, shap, LAMA, AutoWoE) – DL(TensorFlow, Keras - RL(GYM) – NLP(pymorphy2, NLTK) – NV(albumentations)) – Visualization(Matplotlib, Seaborn) - Parsing(Bs4) – Geo(Shapely) – PROD(streamlit, flask) – Other (pulp, cvxpy, pickle, os, shutil, zipfile)), DE(Hadoop, Hive, sqoop, SQL, Bash, pySpark, OpenShift, Jenkins, Sonar Qube), Linux,  BitBucket, Git, heroku  
 **IDE**: VS Code, Jupyter Notebook, Zeppeline, PyCharm  
 JIRA, Confluence, Slack  
-**Kaggle**: https://www.kaggle.com/sokolovaleks
-[**Pet projects portfolio**](https://github.com/alex-sokolov2011/skillfactory_rds)
+**Kaggle**: https://www.kaggle.com/sokolovaleks  
+[**Pet projects portfolio**](https://github.com/alex-sokolov2011/skillfactory_rds)  
 
 ↪️✌️ [CV](https://github.com/alex-sokolov2011/diplomas_and_certificates/blob/main/CV_DataScientist_Sokolov_2022.pdf) and [LinkedIn profile](https://www.linkedin.com/in/sokaa2011/)  
 📩  If you'd like to ask any questions about me or my study/work or would like to collaborate on a project, feel free to call or write. The easiest way to reach me is via [Telegram](https://t.me/aleks_2011).  
