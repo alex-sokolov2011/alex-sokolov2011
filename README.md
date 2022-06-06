@@ -9,7 +9,7 @@ JIRA, Confluence, Slack
 **Kaggle**: https://www.kaggle.com/sokolovaleks  
 [**Pet projects portfolio**](https://github.com/alex-sokolov2011/skillfactory_rds)  
 
-↪️✌️ [CV](https://github.com/alex-sokolov2011/diplomas_and_certificates/blob/main/CV_DataScientist_Sokolov_2022.pdf) and [LinkedIn profile](https://www.linkedin.com/in/sokaa2011/)  
+↪️✌️ [CV](https://github.com/alex-sokolov2011/diplomas_and_certificates/blob/main/CV_DataScientist_Sokolov_2022_Eng.pdf) and [LinkedIn profile](https://www.linkedin.com/in/sokaa2011/)  
 📩  If you'd like to ask any questions about me or my study/work or would like to collaborate on a project, feel free to call or write. The easiest way to reach me is via [Telegram](https://t.me/aleks_2011).  
 📫 But those who still prefer hardcore are welcome to write me an e-mail:[sokaa2011@gmail.com](mailto:sokaa2011@gmail.com)  
 Well, if you liked any repositories, then I will be grateful if you mark them with st⭐️⭐️⭐️rs.
