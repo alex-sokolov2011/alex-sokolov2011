@@ -1,6 +1,6 @@
 ### WELCOME! 👋
 
-I am Alexander Sokolov. Antalya, Turkey. I'm 44. I had one year of experience in production data science in Sber since June 2021. Now I am looking for a role in DS remotely. I completed the course Date Science 💻 in May 2021. I worked as a math teacher in a high school in Israel and after that, I returned to Russia in 2019.  
+I am Alexander Sokolov. Antalya, Turkey. I'm 45. I had one year of experience in production data science in Sber since June 2021. Now I am looking for a role in DS remotely. I completed the course Date Science 💻 in May 2021. I worked as a math teacher in a high school in Israel and after that, I returned to Russia in 2019.  
 I received my knowledge in algebra, mathematical statistics and probability theory at the Faculty of Mechanics and Mathematics of NSU 📚 (specialty in Computational Mathematics) and developed it while working as a high school mathematics teacher in Israel. I have successful experience in pedagogical processes for adolescents and adults.  
 
 **Stack**:  Python(Base (Pandas, Numpy, Math, SciPy, tqdm) – ML(SciKit-Learn, LightGBM, Catboost, shap, LAMA, AutoWoE) – DL(TensorFlow, Keras - RL(GYM) – NLP(pymorphy2, NLTK) – NV(albumentations)) – Visualization(Matplotlib, Seaborn) - Parsing(Bs4) – Geo(Shapely) – PROD(streamlit, flask) – Other (pulp, cvxpy, pickle, os, shutil, zipfile)), DE(Hadoop, Hive, sqoop, SQL, Bash, pySpark, OpenShift, Jenkins, Sonar Qube), Linux,  BitBucket, Git, heroku  
