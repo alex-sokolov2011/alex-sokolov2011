@@ -7,7 +7,7 @@ I received my knowledge in algebra, mathematical statistics and probability theo
 **IDE**: VS Code, Jupyter Notebook, Zeppeline, PyCharm  
 JIRA, Confluence, Slack  
 **Kaggle**: https://www.kaggle.com/sokolovaleks  
-[**Pet projects portfolio**](https://github.com/alex-sokolov2011/skillfactory_rds)  
+[**Pet projects portfolio**](https://github.com/alex-sokolov2011/pet-projects)  
 
 ↪️✌️ [CV](https://github.com/alex-sokolov2011/diplomas_and_certificates/blob/main/CV_DataScientist_Sokolov_2022_Eng.pdf) and [LinkedIn profile](https://www.linkedin.com/in/sokaa2011/)  
 📩  If you'd like to ask any questions about me or my study/work or would like to collaborate on a project, feel free to call or write. The easiest way to reach me is via [Telegram](https://t.me/aleks_2011).  
@@ -24,7 +24,7 @@ Well, if you liked any repositories, then I will be grateful if you mark them wi
 **IDE**: VS Code, Jupyter Notebook, Zeppeline, PyCharm  
 JIRA, Confluence, Slack  
 **Kaggle**: https://www.kaggle.com/sokolovaleks  
-[**Портфолио пет-проектов**](https://github.com/alex-sokolov2011/skillfactory_rds)
+[**Портфолио пет-проектов**](https://github.com/alex-sokolov2011/pet-projects)
 
 ↪️✌️ [Мое резюме](https://github.com/alex-sokolov2011/diplomas_and_certificates/blob/main/CV_DataScientist_Sokolov_2022.pdf) и профиль на [LinkedIn](https://www.linkedin.com/in/sokaa2011/)  
 📩 Проще всего связаться со мной через [Telegram](https://t.me/aleks_2011) - звоните, пишите, не стесняйтесь.  
@@ -32,4 +32,4 @@ JIRA, Confluence, Slack
 Ну и если вам понравились какие-нибудь репозитории, то буду благодарен, если отметите их ⭐️⭐️⭐️-дами  
 
 ![](https://komarev.com/ghpvc/?username=alex-sokolov2011&color=blue)  
-![My stats:](https://github-readme-stats.vercel.app/api?username=alex-sokolov2011&hide=contribs,prs&hide_title=True&hide_border=True&card_width=100&text_color=0d1117&show_icons=true)
+![My stats:](https://github-readme-stats.vercel.app/api?username=alex-sokolov2011&hide=prs&hide_title=True&hide_border=True&card_width=100&text_color=0d1117&show_icons=true)
