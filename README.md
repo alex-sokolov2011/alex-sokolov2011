@@ -32,3 +32,4 @@ JIRA, Confluence, Slack
 Ну и если вам понравились какие-нибудь репозитории, то буду благодарен, если отметите их ⭐️⭐️⭐️-дами  
 
 ![](https://komarev.com/ghpvc/?username=alex-sokolov2011&color=blue)
+![My stats:](https://github-readme-stats.vercel.app/api?username=alex-sokolov2011&hide=prs&hide_title=True&hide_border=True&card_width=100&text_color=0d1117&show_icons=true)
