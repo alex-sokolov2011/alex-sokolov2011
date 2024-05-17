@@ -1,7 +1,7 @@
 ### WELCOME! 👋
 
-I am Alexander Sokolov. Belgrade, Serbia. I'm 46. I have 2+ yearв of experience in production data science in Sber since June 2021. Now I am looking for a role in DS remotely. I completed two courses in Date Science 💻 in 2021 and 2023 (18 + 6 month). I worked as a math teacher in a high school in Israel and after that, I returned to Russia in 2019.  
-I received my knowledge in algebra, mathematical statistics and probability theory at the Faculty of Mechanics and Mathematics of NSU 📚 (specialty in Computational Mathematics) and developed it while working as a high school mathematics teacher in Israel. I have successful experience in pedagogical processes for adolescents and adults.  
+I am Alexander Sokolov. Belgrade, Serbia. I'm 46. I have 2+ years of experience in production data science in Sber since June 2021. Now I am looking for a role in DS remotely. I completed two courses in Date Science 💻 in 2021 and 2023 (18 + 6 months). I worked as a math teacher in a high school in Israel, and after that, I returned to Russia in 2019.  
+I received my knowledge in algebra, mathematical statistics, and probability theory at the Faculty of Mechanics and Mathematics of NSU 📚 (specialty in Computational Mathematics) and developed it while working as a high school mathematics teacher in Israel. I have successful experience in pedagogical processes for adolescents and adults.  
 
 **Stack**:  Python(Base (Pandas, Numpy, SciPy, Math, tqdm) – ML(Scikit-Learn, LightGBM, XGBoost, Catboost, LAMA, AutoWoE, SHAP) – RECSYS(Surprise, QRec) – DL(TensorFlow, Keras, PyTorch – RL(GYM) – NLP(pymorphy2, NLTK) – NV(albumentations)) – Visualization(Matplotlib, Seaborn, Plotly) – Parsing(bs4) – Geo(Shapely) – PROD(Streamlit, Flask) – Other (pulp, cvxpy, pickle, os, shutil, zipfile)), DE(Docker, Hadoop, Hive, Sqoop, SQL, Bash, PySpark, OpenShift, Jenkins, SonarQube, MLflow), Linux, BitBucket, Git, Heroku  
 JIRA, Confluence, Slack  
@@ -11,7 +11,7 @@ JIRA, Confluence, Slack
 ↪️✌️ [CV](https://github.com/alex-sokolov2011/diplomas_and_certificates/blob/main/CV_DataScientist_Sokolov_Eng.pdf) and [LinkedIn profile](https://www.linkedin.com/in/sokaa2011/)  
 📩  If you'd like to ask any questions about me or my study/work or would like to collaborate on a project, feel free to call or write. The easiest way to reach me is via [Telegram](https://t.me/aleks_2011).  
 📫 But those who still prefer hardcore are welcome to write me an e-mail:[sokaa2011@gmail.com](mailto:sokaa2011@gmail.com)  
-Well, if you liked any repositories, then I will be grateful if you mark them with st⭐️⭐️⭐️rs.
+Well, if you liked any repositories, then I would be grateful if you mark them with st⭐️⭐️⭐️rs.
 
 ---
 ### Добро пожаловать! 👋
