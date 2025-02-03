@@ -7,7 +7,7 @@ I'm Alex Sokolov from Belgrade, Serbia. I bring 2+ years of commercial data scie
 **Kaggle**: https://www.kaggle.com/sokolovaleks  
 [**Pet projects portfolio**](https://github.com/alex-sokolov2011/pet-projects)  
 
-↪️✌️ [CV](https://github.com/alex-sokolov2011/diplomas_and_certificates/blob/main/CV_DataScientist_Sokolov_Eng.pdf) and [LinkedIn profile](https://www.linkedin.com/in/sokolov-a-ds/)  
+↪️✌️ My [LinkedIn profile](https://www.linkedin.com/in/sokolov-a-ds/)  
 📩  If you'd like to ask any questions about me or my study/work or would like to collaborate on a project, feel free to call or write. The easiest way to reach me is via [Telegram](https://t.me/aleks_2011).  
 📫 But those who still prefer old school are welcome to email me at [sokaa2011@gmail.com](mailto:sokaa2011@gmail.com)  
 Well, if you liked any repositories, then I would be grateful if you mark them with st⭐️⭐️⭐️rs.
@@ -17,7 +17,7 @@ Well, if you liked any repositories, then I would be grateful if you mark them w
 
 Я Александр Соколов. Живу в Белграде (Сербия). У меня 2+ года коммерческого опыта в области Data Science и еще 2 года специализированного обучения в этой сфере. Обладая сильной математической базой, я превращаю сложные данные в полезные инсайты. Мой опыт включает качественный EDA, применение алгоритмов машинного обучения, визуализацию отчетов и уверенное владение SQL. Я являюсь Kaggle Expert и занял 15-е место в ML тренировках Яндекса. С 15-летним опытом работы в бизнесе в таких компаниях, как P&G, 2GIS и Coca-Cola.  
 
-↪️✌️ [Мое резюме](https://github.com/alex-sokolov2011/diplomas_and_certificates/blob/main/CV_DataScientist_Sokolov.pdf) и профиль на [LinkedIn](https://www.linkedin.com/in/sokolov-a-ds/)  
+↪️✌️ Мой профиль на [LinkedIn](https://www.linkedin.com/in/sokolov-a-ds/)  
 📩 Проще всего связаться со мной через [Telegram](https://t.me/aleks_2011) - звоните, пишите, не стесняйтесь.  
 📫 Или пишите на e-mail:[sokaa2011@gmail.com](mailto:sokaa2011@gmail.com)  
 Ну и если вам понравились какие-нибудь репозитории, то буду благодарен, если отметите их ⭐️  
