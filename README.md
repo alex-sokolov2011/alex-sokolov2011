@@ -23,4 +23,4 @@ Well, if you liked any repositories, then I would be grateful if you mark them w
 Ну и если вам понравились какие-нибудь репозитории, то буду благодарен, если отметите их ⭐️  
 
 ![](https://komarev.com/ghpvc/?username=alex-sokolov2011&color=blue)  
-![My stats:](https://github-readme-stats.vercel.app/api?username=alex-sokolov2011&hide=prs&hide_title=True&hide_border=True&card_width=100&text_color=0d1117&show_icons=true)
+![Stars](https://img.shields.io/github/stars/alex-sokolov2011?style=social)
